@@ -1,0 +1,79 @@
+,MP Destination Station,Train Number,Train Name,Source City,Departure Time,Arrival Time,Duration (hrs),Frequency,3AC Cost (INR),Sleeper Cost (INR)
+0,Bhopal,12627,Karnataka SF Express,Bengaluru,19:20,04:05,32.75,Daily,1800,700
+1,Gwalior,12627,Karnataka SF Express,Bengaluru,19:20,04:05,32.75,Daily,1800,700
+2,Katni,12295,Sanghamitra SF Express,Bengaluru,09:15,18:45,33.5,Daily,2000,750
+3,Seoni,12295,Sanghamitra SF Express,Bengaluru,09:15,18:45,33.5,Daily,2000,750
+4,Indore,19302,Yesvantpur–Indore Express,Bengaluru,11:30,05:15,41.75,Wednesday,2200,800
+5,Ujjain,19302,Yesvantpur–Indore Express,Bengaluru,11:30,03:10,39.67,Wednesday,2200,800
+6,Jabalpur,12194,Yesvantpur–Jabalpur Express,Bengaluru,06:50,13:30,30.67,Saturday,1900,700
+7,Satna,12194,Yesvantpur–Jabalpur Express,Bengaluru,06:50,13:30,30.67,Saturday,1900,700
+8,Chhatarpur,18464,Prashanti Express,Bengaluru,13:40,18:50,29.17,Daily,1700,650
+9,Chhatarpur,22884,YPR–Garib Rath Express,Bengaluru,22:40,03:55,29.25,Saturday,1600,600
+10,Bhopal,12621,Tamil Nadu Express,Chennai,22:00,20:10,22.17,Daily,2000,800
+11,Gwalior,12621,Tamil Nadu Express,Chennai,22:00,01:32,27.53,Daily,2200,850
+12,Jabalpur,12621,Tamil Nadu Express,Chennai,22:00,18:00,20.0,Daily,1900,750
+13,Katni,12390,MAS–Gaya SF Express,Chennai,17:45,20:30,26.75,Daily,2100,800
+14,Satna,12621,Tamil Nadu Express,Chennai,22:00,20:00,22.0,Daily,2000,800
+15,Bhopal,12721,Dakshin Express,Hyderabad,23:00,17:10,18.17,Daily,1800,700
+16,Gwalior,12721,Dakshin Express,Hyderabad,23:00,22:44,23.73,Daily,2000,800
+17,Jabalpur,12721,Dakshin Express,Hyderabad,23:00,02:05,27.08,Daily,1900,750
+18,Katni,12792,Secunderabad Express,Hyderabad,12:15,00:40,12.42,Daily,1700,650
+19,Jabalpur,12792,Secunderabad Express,Hyderabad,12:15,02:05,13.83,Daily,1800,700
+20,Bhopal,12155,Mumbai–Bhopal Express,Mumbai,20:00,07:00,11.0,Daily,1500,600
+21,Bhopal,12153,Mumbai–Habibganj Express,Mumbai,18:00,05:00,11.0,Daily,1500,600
+22,Gwalior,11057,Mumbai–Amritsar Express,Mumbai,12:45,06:15,17.5,"Mon, Thu, Sat",1800,700
+23,Jabalpur,12188,Mumbai–Jabalpur Garib Rath Express,Mumbai,13:30,05:15,15.75,"Sun, Tue, Thu",1600,0
+24,Satna,11071,Kamayani Express,Mumbai,13:50,05:00,15.17,Daily,1700,650
+25,Indore,12961,Avantika Express,Mumbai,18:55,09:40,14.75,Daily,1600,600
+26,Ujjain,12961,Avantika Express,Mumbai,18:55,08:00,13.08,Daily,1500,550
+27,Khandwa,12188,Mumbai–Jabalpur Garib Rath Express,Mumbai,13:30,22:43,9.22,"Sun, Tue, Thu",1400,0
+28,Bhopal,19711,Jaipur–Bhopal Express,Jaipur,18:25,11:20,16.92,Daily,1600,600
+29,Gwalior,12976,Jaipur–Mysuru Express,Jaipur,22:15,05:30,7.25,Daily,1500,550
+30,Jabalpur,12181,Dayodaya Express,Jaipur,15:30,08:15,16.75,Daily,1700,650
+31,Chhatarpur,12182,Dayodaya Express,Jaipur,15:30,06:45,15.25,Daily,1650,620
+32,Ujjain,19711,Jaipur–Bhopal Express,Jaipur,18:25,07:20,12.92,Daily,1550,580
+33,Indore,19711,Jaipur–Bhopal Express,Jaipur,18:25,08:30,14.08,Daily,1600,600
+34,Katni,12182,Dayodaya Express,Jaipur,15:30,06:30,15.0,Daily,1600,580
+35,Indore,19310,Shanti Express,Ahmedabad,20:25,06:35,10.17,Daily,1500,600
+36,Jabalpur,11464,Jabalpur–Somnath Express,Ahmedabad,18:35,14:10,19.58,"Tue, Wed, Thu, Sat, Sun",1700,650
+37,Indore,19319,Veraval–Indore Mahamana Express,Ahmedabad,06:40,17:05,10.42,Thursday,1500,600
+38,Ujjain,19316,Veer Bhumi Express,Ahmedabad,14:25,04:55,14.5,Daily,1600,620
+39,Khandwa,22937,Rajkot–Rewa SF Express,Ahmedabad,18:30,07:45,13.25,Monday,1550,600
+40,Gwalior,22548,Sabarmati–Gwalior SF Express,Ahmedabad,16:55,09:25,16.5,"Tue, Fri, Sat",1650,650
+41,Bhopal,12156,Shan-e-Bhopal Express,New Delhi,20:40,06:20,9.67,Daily,1650,650
+42,Bhopal,12002,Bhopal Shatabdi Express,New Delhi,06:00,14:40,8.67,Daily,1800,700
+43,Chhatarpur,12447,Uttar Pradesh Sampark Kranti Express,New Delhi,20:00,06:30,10.5,Daily,1600,600
+44,Jabalpur,12189,Mahakaushal Express,New Delhi,14:20,06:00,15.67,Daily,1700,650
+45,Seoni,14623,Patalkot Express,New Delhi,15:30,08:55,17.42,Daily,1600,600
+46,Indore,12416,New Delhi–Indore Intercity SF Express,New Delhi,21:50,12:00,14.17,Daily,1650,620
+47,Bhopal,12321,Howrah–Mumbai Mail,Kolkata,23:35,06:20,6.75,Daily,1800,650
+48,Jabalpur,12321,Howrah–Mumbai Mail,Kolkata,23:35,19:10,19.58,Daily,1800,650
+49,Katni,12321,Howrah–Mumbai Mail,Kolkata,23:35,17:55,18.33,Daily,1800,650
+50,Satna,12321,Howrah–Mumbai Mail,Kolkata,23:35,16:40,17.08,Daily,1800,650
+51,Chhatarpur,12321,Howrah–Mumbai Mail,Kolkata,23:35,06:30,6.92,Daily,1800,650
+52,Khandwa,12321,Howrah–Mumbai Mail,Kolkata,23:35,02:25,4.83,Daily,1800,650
+53,Gwalior,12156,Shan-e-Bhopal Express,Bhopal,05:00,08:15,3.25,Daily,1500,600
+54,Gwalior,12002,Bhopal Shatabdi,Bhopal,08:30,10:45,2.25,Daily,1700,750
+55,Ujjain,12189,Mahakaushal Express,Bhopal,07:30,10:00,2.5,Daily,1300,500
+56,Gwalior,12721,Dakshin Express,Jabalpur,23:00,22:44,23.73,Daily,2000,800
+57,Indore,12156,Shan-e-Bhopal Express,Bhopal,10:00,12:15,2.25,Daily,1400,600
+58,Ujjain,12961,Avantika Express,Indore,07:00,08:10,1.17,Daily,1200,500
+59,Katni,12792,Secunderabad Express,Hyderabad,20:45,07:00,10.25,Daily,1700,600
+60,Seoni,12953,Mumbai-Howrah Mail,Mumbai,19:30,09:00,13.5,Daily,1500,700
+61,Bhopal,12155,Mumbai–Bhopal Express,Mumbai,22:00,07:00,9.0,Daily,1800,650
+62,Gwalior,11057,Mumbai–Amritsar Express,Mumbai,15:00,20:30,5.5,Daily,1600,500
+63,Gwalior,12156,Shan-e-Bhopal Express,Bhopal,05:00,08:15,3.25,Daily,1500,600
+64,Gwalior,12002,Bhopal Shatabdi,Bhopal,08:30,10:45,2.25,Daily,1700,750
+65,Ujjain,12189,Mahakaushal Express,Bhopal,07:30,10:00,2.5,Daily,1300,500
+66,Gwalior,12721,Dakshin Express,Jabalpur,23:00,22:44,23.73,Daily,2000,800
+67,Indore,12156,Shan-e-Bhopal Express,Bhopal,10:00,12:15,2.25,Daily,1400,600
+68,Ujjain,12961,Avantika Express,Indore,07:00,08:10,1.17,Daily,1200,500
+69,Katni,12792,Secunderabad Express,Hyderabad,20:45,07:00,10.25,Daily,1700,600
+70,Seoni,12953,Mumbai-Howrah Mail,Mumbai,19:30,09:00,13.5,Daily,1500,700
+71,Bhopal,12155,Mumbai–Bhopal Express,Mumbai,22:00,07:00,9.0,Daily,1800,650
+72,Gwalior,11057,Mumbai–Amritsar Express,Mumbai,15:00,20:30,5.5,Daily,1600,500
+73,Jabalpur,12188,Mumbai–Jabalpur Garib Rath Express,Mumbai,22:10,05:30,7.33,Daily,1700,700
+74,Bhopal,12159,Khandwa–Bhopal Express,Khandwa,06:10,10:05,3.92,Daily,1350,600
+75,Bhopal,12193,Chhatarpur Express,Chhatarpur,08:20,12:30,4.17,Daily,1500,650
+76,Indore,12919,Malwa Express,Bhopal,06:30,11:00,4.5,Daily,800,350
+77,Omkareshwar,19742,Khajuraho Omkareshwar Weekly Express,Khajuraho,17:30,09:00,15.5,Wednesday,1350,580
